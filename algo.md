@@ -1,5 +1,0 @@
-algo
-
-# Indice
-
-###
