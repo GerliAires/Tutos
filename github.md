@@ -2,9 +2,9 @@ Apunte de github con comandos utiles
 
 # Indice
 
-[Borrar Archivo](#Borrar-Archivo)
+1. [Borrar Archivo](#Borrar-Archivo)
 
-[Borrar Carpeta](#Borrar-Carpeta)
+2. [Borrar Carpeta](#Borrar-Carpeta)
 
 ## Borrar Archivo
 
